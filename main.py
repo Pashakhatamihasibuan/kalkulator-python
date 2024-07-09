@@ -22,7 +22,7 @@ while (True):
     
     try:
         if pilihan == 5:
-          print("Terimakasih telah menggunakan aplikasi kalkulator pytnon. Sampai Jumpa");
+          print("Terimakasih telah menggunakan aplikasi kalkulator python. Sampai Jumpa");
           break;
         elif pilihan < 1 or pilihan > 5:
           print("Pilihan tidak ada. Harap masukan dengan valid");
